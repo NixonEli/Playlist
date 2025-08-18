@@ -7,7 +7,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title="GENERAL", CANAL IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/250px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="GENERAL", AMERICA TV
+#EXTINF:-1 tvg-id="americatv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/250px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="GENERAL", AMERICA TV
 http://181.188.216.5:18000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATV-150x66.png" group-title="GENERAL", ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
