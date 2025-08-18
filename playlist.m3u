@@ -51,3 +51,9 @@ https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio
 https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/
 #EXTINF:-1 tvg-id="Cumbiamix.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/radio-cumbia-mix.png" group-title="RADIO", CUMBIA MIX
 https://mdstrm.com/audio/6598b6ab95a235085823b24f/icecast.audio?property=radios.com.pe
+#EXTINF:-1 tvg-id="Exitosa.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/exitosa-lima.png" group-title="RADIO", EXITOSA
+https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+#EXTINF:-1 tvg-id="Lazona.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/la-zona.png" group-title="RADIO", LA ZONA
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+#EXTINF:-1 tvg-id="https://perufolkradio.com/" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/folk.png" group-title="RADIO", PERUFOLK
+https://raymistream.net/listen/perufolkradio/live
