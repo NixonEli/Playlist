@@ -29,3 +29,5 @@ https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 https://sc1.wasidata.com/Genios/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png" group-title="NOTICIAS", LATINA NOTICIAS
 https://live-evg25.tv360.bitel.com.pe/bitel/latinanoticias/playlist.m3u8
+#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/10/02/1746820089545/b0e2b4bee465_480_270.png" group-title="GENERAL", WILLAX
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
