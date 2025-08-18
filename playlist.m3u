@@ -17,7 +17,7 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/250px-Logoexitosa.png" group-title="NOTICIAS", EXITOSA TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
-#EXTINF:-1 tvg-id="LaTele.pe" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:LaTele_Per%C3%BA_2018_Logo.png" group-title="GENERAL", LA TELE
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788_480_270.png" group-title="GENERAL", LA TELE
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png" group-title="GENERAL", LATINA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
@@ -31,7 +31,23 @@ https://sc1.wasidata.com/Genios/tracks-a1/index.fmp4.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/latinanoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/10/02/1746820089545/b0e2b4bee465_480_270.png" group-title="GENERAL", WILLAX
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="Rt.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/08/01/03/1753992705910/88f6f9b855f3_480_270.jpg" group-title="NOTICIAS", RT ESPAÑOL
-https://live-evg25.tv360.bitel.com.pe/bitel/rt/chunks.m3u8
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835848842/7f999c8b6374_480_270.png" group-title="GENERAL", PANAMERICANA
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="Pbo.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830230313/be8c9945376d_480_270.jpg" group-title="NOTICIAS", PBO
+https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="Global.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829804503/8dfc28d8c469_480_270.png" group-title="GENERAL", GLOBAL
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="Tvnorte.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/14/02/172357795260/02dd5475270f_480_270.png" group-title="GENERAL", TV NORTE
+https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8
+#EXTINF:-1 tvg-id="Ritmoromatica.pe" tvg-logo="https://mmo.aiircdn.com/766/6452bbfb28781.png" group-title="RADIO", RITMO ROMANTICA
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6839e2376607bdf6b2fcde27
+#EXTINF:-1 tvg-id="Rpp.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/rpp.png" group-title="RADIO", RPP
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
+#EXTINF:-1 tvg-id="Ondacero.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/onda.png" group-title="RADIO", ONDA CERO
+https://mdstrm.com/audio/6598b65ab398c90871aff8cc/icecast.audio
+#EXTINF:-1 tvg-id="Corazon.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/corazon.png" group-title="RADIO", CORAZON
+https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/la-karibena.png" group-title="RADIO", KARIBEÑA
+https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/
+#EXTINF:-1 tvg-id="Cumbiamix.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/radio-cumbia-mix.png" group-title="RADIO", CUMBIA MIX
+https://mdstrm.com/audio/6598b6ab95a235085823b24f/icecast.audio?property=radios.com.pe
