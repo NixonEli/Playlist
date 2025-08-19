@@ -3,7 +3,7 @@
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NOTICIAS", TV PERU NOTICIAS
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="NOTICIAS", TV PERU INTERNACIONAL
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="NOTICIAS", TV PERU INTERNACIONAL
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title="GENERAL", CANAL IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
@@ -13,7 +13,7 @@ https://live-evg4.tv360.bitel.com.pe/imkyKjtVWS-zBTofx8riJw/1755651435/bitel/ame
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVmas-150x50.png" group-title="NOTICIAS", ATV+ NOTICIAS
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVsur-150x47.png" group-title="GENERAL", ATV SUR
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVsur-150x47.png" group-title="GENERAL", ATV SUR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/250px-Logoexitosa.png" group-title="NOTICIAS", EXITOSA TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
@@ -25,9 +25,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="8575mvstr.pe" tvg-logo="https://soltvperu.com/wp-content/uploads/2022/10/naranja-21-03.png" group-title="GENERAL", SOL TV
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-id="Genios.tv" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="GENERAL", GENIOS TV
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="GENERAL", GENIOS TV
 https://sc1.wasidata.com/Genios/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png" group-title="NOTICIAS", LATINA NOTICIAS
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png" group-title="NOTICIAS", LATINA NOTICIAS
 https://live-evg25.tv360.bitel.com.pe/bitel/latinanoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/10/02/1746820089545/b0e2b4bee465_480_270.png" group-title="GENERAL", WILLAX
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
@@ -37,25 +37,31 @@ https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829804503/8dfc28d8c469_480_270.png" group-title="GENERAL", GLOBAL
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="Tvnorte.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/14/02/172357795260/02dd5475270f_480_270.png" group-title="GENERAL", TV NORTE
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/14/02/172357795260/02dd5475270f_480_270.png" group-title="GENERAL", TV NORTE
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8
-#EXTINF:-1 tvg-id="Ritmoromatica.pe" tvg-logo="https://mmo.aiircdn.com/766/6452bbfb28781.png" group-title="RADIO", RITMO ROMANTICA
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://mmo.aiircdn.com/766/6452bbfb28781.png" group-title="RADIO", RITMO ROMANTICA
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6839e2376607bdf6b2fcde27
-#EXTINF:-1 tvg-id="Rpp.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/rpp.png" group-title="RADIO", RPP
+#EXTINF:-1 tvg-id="475" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/rpp.png" group-title="RADIO", RPP
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
-#EXTINF:-1 tvg-id="Ondacero.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/onda.png" group-title="RADIO", ONDA CERO
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/onda.png" group-title="RADIO", ONDA CERO
 https://mdstrm.com/audio/6598b65ab398c90871aff8cc/icecast.audio
-#EXTINF:-1 tvg-id="Corazon.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/corazon.png" group-title="RADIO", CORAZON
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/corazon.png" group-title="RADIO", CORAZON
 https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio
-#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/la-karibena.png" group-title="RADIO", KARIBEÑA
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/la-karibena.png" group-title="RADIO", KARIBEÑA
 https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/
-#EXTINF:-1 tvg-id="Cumbiamix.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/radio-cumbia-mix.png" group-title="RADIO", CUMBIA MIX
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/radio-cumbia-mix.png" group-title="RADIO", CUMBIA MIX
 https://mdstrm.com/audio/6598b6ab95a235085823b24f/icecast.audio?property=radios.com.pe
-#EXTINF:-1 tvg-id="Exitosa.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/exitosa-lima.png" group-title="RADIO", EXITOSA
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/exitosa-lima.png" group-title="RADIO", EXITOSA
 https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
-#EXTINF:-1 tvg-id="Lazona.pe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/la-zona.png" group-title="RADIO", LA ZONA
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/la-zona.png" group-title="RADIO", LA ZONA
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
-#EXTINF:-1 tvg-id="https://perufolkradio.com/" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/folk.png" group-title="RADIO", PERUFOLK
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/folk.png" group-title="RADIO", PERUFOLK
 https://raymistream.net/listen/perufolkradio/live
-#EXTINF:-1 tvg-id="https://tv360.bitel.com.pe/en/tv/fmh-movies?ch=444&col=6&sect=LIVE&page=home_live" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" group-title="GENERAL", FMH MOVIES
+#EXTINF:-1 tvg-id="504" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" group-title="GENERAL", FMH MOVIES
 https://tv360.bitel.com.pe/public/v1/log/watchlog?sq=TaHiKPELiHux%2B%2FYkg6%2BaEelROOXyKvwBm0tSuTsMP%2FyM2t5ve12qr95Ii8EfVkd%2F&secured=true
+#EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://cdn.usmptv.pe/v1/images/logo-usmptv-main.png" group-title="GENERAL", USMP TV
+https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://mmo.aiircdn.com/766/643805bf42ae5.png" group-title="RADIO", NUEVA Q
+https://mdstrm.com/audio/6839e1f153fcf56d988d5943/live.m3u8?property=aiir&_=811239
+#EXTINF:-1 tvg-id="560" tvg-logo="https://cdn.epg-latam.com/logos/560-rtesp/Russia-today-logo.jpg" group-title="NOTICIAS", RT ESPAÑOL
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
