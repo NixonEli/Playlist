@@ -69,15 +69,15 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-id="NULL" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="GENERAL", AGRO TV
 https://play.agenciastreaming.com:8081/agrotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://logos.fandom.com/wiki/Bethel_Televisi%C3%B3n?file=Betheltv2018.png" group-title="ESPERANZA", BETHEL TV
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://logos.fandom.com/wiki/File:Betheltv2018.png" group-title="ESPERANZA", BETHEL TV
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://logos.fandom.com/wiki/Bethel_Televisi%C3%B3n?file=Betheltv2018.png" group-title="ESPERANZA", BETHEL RADIO
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://logos.fandom.com/wiki/Bethel_Radio?file=Bethel-radio-logo.png" group-title="RADIO", BETHEL RADIO
 https://alfa.betheltv.tv/radiobethel/1/icecast.audio
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://logos.fandom.com/wiki/Bethel_Televisi%C3%B3n?file=Betheltv2018.png" group-title="ESPERANZA", BETHEL MUSICA
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://mixlr-assets.s3.amazonaws.com/users/e82620d28a13927f2821903d6bcd31c8/thumb.png" group-title="RADIO", BETHEL MUSICA
 https://c21.radioboss.fm/stream/253
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://cdn-profiles.tunein.com/s342246/images/logod.jpg" group-title="ESPERANZA", RADIO DRISTIANA PERU
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://cdn-profiles.tunein.com/s342246/images/logod.jpg" group-title="RADIO", RADIO CRISTIANA PERU
 https://conectperu.com/8416/stream
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://cdn-profiles.tunein.com/s174147/images/logod.png" group-title="ESPERANZA", RRI
+#EXTINF:-1 tvg-id="NULL" tvg-logo="https://cdn-profiles.tunein.com/s174147/images/logod.png" group-title="RADIO", RRI
 https://dattavolt.com/8164/stream
 #EXTINF:-1 tvg-id="NULL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNSOJZAPNOxKnjBEdOeoIcf351VBi2GGzWLm0WZhqzwfQafRKnKylv2OIKypyPuSyefFRyqqhEfLw_EGu_B7vCgeAp3mrhy5K_1LR2ixA7Si1nCCmw4jKBICCyJiKC35KPWSROBoU8h8Q/s1600-rw/ldstereo.jpg" group-title="RADIO", LD STEREO
 https://panelautodj.innovatestream.pe:10751/stream
