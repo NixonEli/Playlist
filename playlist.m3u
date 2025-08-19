@@ -8,7 +8,7 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://www.canalipe.gob.pe/sites/default/themes/concise_drupal/static/media/header/logo.png" group-title="GENERAL", CANAL IPE
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="americatv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/250px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="GENERAL", AMERICA TV
-http://181.188.216.5:18000/play/a014/index.m3u8
+https://live-evg4.tv360.bitel.com.pe/imkyKjtVWS-zBTofx8riJw/1755651435/bitel/americatvhd/bitel/americatvhd_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATV-150x66.png" group-title="GENERAL", ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVmas-150x50.png" group-title="NOTICIAS", ATV+ NOTICIAS
@@ -57,3 +57,5 @@ https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
 #EXTINF:-1 tvg-id="https://perufolkradio.com/" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/folk.png" group-title="RADIO", PERUFOLK
 https://raymistream.net/listen/perufolkradio/live
+#EXTINF:-1 tvg-id="https://tv360.bitel.com.pe/en/tv/fmh-movies?ch=444&col=6&sect=LIVE&page=home_live" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" group-title="GENERAL", FMH MOVIES
+https://tv360.bitel.com.pe/public/v1/log/watchlog?sq=TaHiKPELiHux%2B%2FYkg6%2BaEelROOXyKvwBm0tSuTsMP%2FyM2t5ve12qr95Ii8EfVkd%2F&secured=true
